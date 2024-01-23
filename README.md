@@ -20,6 +20,8 @@ Python 3
 SymPy
 
 Licence
-This project is licensed under the MIT License.
+This project is licensed under the MIT License.See the LICENSE file for detailed information.
+
+
 
 Note: This project is designed for those who want to understand the gradient descent method and apply it with a simple example.
